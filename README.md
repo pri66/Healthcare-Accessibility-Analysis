@@ -22,6 +22,24 @@ This project evaluates healthcare accessibility in Jabalpur District, Madhya Pra
 
 ---
 
+## Project Workflow
+
+```text
+Data Collection
+        ↓
+Data Preparation
+        ↓
+Hospital Buffer Analysis
+        ↓
+Accessibility Gap Analysis
+        ↓
+Settlement Analysis
+        ↓
+Site Selection
+        ↓
+Dashboard Preparation
+```
+
 ## GIS Tools & Techniques
 
 - QGIS
